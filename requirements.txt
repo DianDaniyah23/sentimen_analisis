@@ -1,0 +1,10 @@
+flask
+flask_sqlalchemy
+flask_login
+scikit-learn
+pandas
+werkzeug
+SQLAlchemy<2.0
+vaderSentiment
+PyMuPDF
+gunicorn
